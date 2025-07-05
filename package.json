@@ -1,0 +1,27 @@
+{
+  "name": "frontend-intern-assignment",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emoji-mart/data": "^1.2.1",
+    "@emoji-mart/react": "^1.1.1",
+    "emoji-mart": "^5.6.0",
+    "framer-motion": "^12.23.0",
+    "lucide-react": "^0.525.0",
+    "next": "14.x",
+    "react": "18.x",
+    "react-dom": "18.x",
+    "react-icons": "^5.5.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.8",
+    "autoprefixer": "^10.4.x",
+    "postcss": "^8.4.x",
+    "tailwindcss": "^3.4.x"
+  }
+}
